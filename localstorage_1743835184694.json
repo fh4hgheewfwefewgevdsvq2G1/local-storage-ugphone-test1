@@ -1,0 +1,50 @@
+{
+  "ugPhoneLang": "en",
+  "ugBrowserId": "a0386474c5e785ca8206e776f86fdc84",
+  "hasNoviceGuide": 1,
+  "UGPHONE-ID": "45a21a6f-c9a8-9c98-c98a-dd65d762bed4",
+  "displayNewPackage": [
+    4137139,
+    6519522,
+    7706686,
+    7706699,
+    8785494
+  ],
+  "hadAgreePolicy": true,
+  "UGrightSlideTips": 1,
+  "UGPHONE-HOME": {
+    "activeGroup": {
+      "option_name": "All equipment",
+      "option_label": "all",
+      "api_uri": "apiv1/device/deviceList",
+      "param": {},
+      "device_count": 2
+    },
+    "activeShow": "preview",
+    "previewSid": "9f772daf-07dc-6707-e4bc-a7a824bb25ce",
+    "gridTop": 0
+  },
+  "UGsuspendedBallPosition": {
+    "x": 0,
+    "y": 131,
+    "isRotate": false
+  },
+  "UGPHONE-Token": "5c49e86cdeb9f88d017894485a2c69ae20250325122010",
+  "UGPHONE-MQTT": {
+    "login_id": "45a21a6f-c9a8-9c98-c98a-dd65d762bed4",
+    "access_token": "5c49e86cdeb9f88d017894485a2c69ae20250325122010",
+    "access_key": "57a75da5ec71e3c0ead086b83430b143",
+    "access_secret": "57a75da531df873c43ccf97d92c7e3c0",
+    "mqtt_url": "tcp://mqtt.ugphone.com:20001",
+    "mqtt_ssl_url": "ssl://mqtt.ugphone.com:20003",
+    "mqtt_ws_url": "ws://mqtt.ugphone.com:20002/mqtt",
+    "mqtt_wss_url": "wss://mqtt.ugphone.com:8183/mqtt",
+    "mqtt_topic": "game-toc/online/mqtt_client_8785494/2567a5ec9705eb7ac2c984033e06189d",
+    "mqtt_client_id": "mqtt_client_8785494_web",
+    "mqtt_username": "mqtt_client_8785494",
+    "mqtt_password": "23f463465d7dfe45b63dfe73b82b4105",
+    "ws_url": "wss://www.ugphone.com:2351",
+    "first_login": 1,
+    "is_visitor": 0
+  }
+}
